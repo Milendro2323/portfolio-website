@@ -1,8 +1,8 @@
 # Portfolio Website
 
-Naam: Milendro
+Naam: Milendro<br>
 Opleiding: MBO Software Development niveau 4
- 
+
 
 Dit project is een demonstratie van HTML, CSS en JavaScript code, gemaakt voor een mogelijke stage-opdrachtgever.
 
